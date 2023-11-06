@@ -1,8 +1,7 @@
-### Hola mi nombre es Ariana 👋
-
 # 💫 sobre mi:
-Hola mi nombre es Ariana Mayerli<br>Soy estudiante de tecnología en la EPN, estoy cursando el 4 semestre <br>-Me apasiona la ciber seguridad y la IA.
-
+ʜᴏʟᴀ ᴍɪ ɴᴏᴍʙʀᴇ ᴇꜱ ᴀʀɪᴀɴᴀ ᴍᴀʏᴇʀʟɪ
+ꜱᴏʏ ᴇꜱᴛᴜᴅɪᴀɴᴛᴇ ᴅᴇ ᴛᴇᴄɴᴏʟᴏɢÍᴀ ᴇɴ ʟᴀ ᴇᴘɴ, ᴇꜱᴛᴏʏ ᴄᴜʀꜱᴀɴᴅᴏ ᴇʟ 4 ꜱᴇᴍᴇꜱᴛʀᴇ
+-ᴍᴇ ᴀᴘᴀꜱɪᴏɴᴀ ʟᴀ ᴄɪʙᴇʀ ꜱᴇɢᴜʀɪᴅᴀᴅ ʏ ʟᴀ ɪᴀ.
 
 ## 🌐 Redes sociales
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ArianaMayerli) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ariana catani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariana_catani) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ariianacatani) 
